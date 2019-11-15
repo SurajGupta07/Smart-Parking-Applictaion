@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2dea7ed213d71508e58b951166453a6e/jetified-navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/dcf92676007368b687e222832ac19fc9/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9d75252f9a3d20b0318918e9fc3cb915/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/suraj/.gradle/caches/transforms-2/files-2.1/fc69159ff83782d4a329c16d8af8222c/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/ad8aad7fb762bfcc5f36a0b2c7adbcd1/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fe2d8f32732947d09392073c5d9581a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/d4381f088921eed3373318aa25b0b180/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b05411bb81029b0d4c52947d16719a18/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/46ab803665370596c4e700d7e5ab0252/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/42cf9e90f8d31d076504c1204cb9e14a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1883e4c0de9884086b99e1b3fdc25c69/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/89028c436aeff42c35d2fdefeae49500/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/40d0efa32d4977b27cace6c75d7ef135/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/a721c3d183f3d9c342512cbf9992c09b/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/83a3a8e1b3baeda87753d901a609d420/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/045f35ee30a492e5eb979e889993ddb8/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/daf2f1d248d485af1b6b945a8ced8969/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/07a3e22d581201df360849d016c674fd/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1dbd6f7eb915cbf32673467e48774f09/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b6a48bbb3e99cb2c9a70c83068009a3a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c248b69abfd455cbaf564dff69c2d59/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b1f64fe9dfb7da8331d8ea308dedff99/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9e7174efc332970e1002fda74b119128/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/02b369b6668515dfa2ac71748b1ab2a6/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/0eb2c3e2de0e42cd63808ad14a582ad7/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/eaa2596ef0e0d4452c2848e2b66ca6fe/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/c45a327758e82bf6bb421776c4e248cd/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1570a6f908a6ffa3022d86e4427c8761/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/94c446089a82c8379fbc1d74b72260d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/537042209ac116e7d73b91f376be5e28/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b912fe1cb0f91094d7ffcbe4f0ccb4c4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fb00a64f3890e5b1adf9ff0ca0e903b9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/5339952e5d6881da5ba8c69030d9f8f4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/21ff0995777511fc8469a14544f38360/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/f555a2aad10d70574ee391dd4cc74924/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/acbd37dcbec17de435d714620cc5769d/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c00b687649f2beef937e2fa441d57f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/db0edf62519506cbf42e33814eadd2e0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/133ae06732e27189c08f0d9fe577375a/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/dcf92676007368b687e222832ac19fc9/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/dcf92676007368b687e222832ac19fc9/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/suraj/.gradle/caches/transforms-2/files-2.1/fc69159ff83782d4a329c16d8af8222c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/suraj/.gradle/caches/transforms-2/files-2.1/fc69159ff83782d4a329c16d8af8222c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/46ab803665370596c4e700d7e5ab0252/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/46ab803665370596c4e700d7e5ab0252/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b912fe1cb0f91094d7ffcbe4f0ccb4c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b912fe1cb0f91094d7ffcbe4f0ccb4c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.smartparking.MainActivity
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2dea7ed213d71508e58b951166453a6e/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2dea7ed213d71508e58b951166453a6e/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/dcf92676007368b687e222832ac19fc9/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/dcf92676007368b687e222832ac19fc9/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9d75252f9a3d20b0318918e9fc3cb915/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9d75252f9a3d20b0318918e9fc3cb915/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/suraj/.gradle/caches/transforms-2/files-2.1/fc69159ff83782d4a329c16d8af8222c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/suraj/.gradle/caches/transforms-2/files-2.1/fc69159ff83782d4a329c16d8af8222c/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/ad8aad7fb762bfcc5f36a0b2c7adbcd1/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/ad8aad7fb762bfcc5f36a0b2c7adbcd1/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fe2d8f32732947d09392073c5d9581a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fe2d8f32732947d09392073c5d9581a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/d4381f088921eed3373318aa25b0b180/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/d4381f088921eed3373318aa25b0b180/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b05411bb81029b0d4c52947d16719a18/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b05411bb81029b0d4c52947d16719a18/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/46ab803665370596c4e700d7e5ab0252/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/46ab803665370596c4e700d7e5ab0252/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/42cf9e90f8d31d076504c1204cb9e14a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/42cf9e90f8d31d076504c1204cb9e14a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1883e4c0de9884086b99e1b3fdc25c69/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1883e4c0de9884086b99e1b3fdc25c69/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/89028c436aeff42c35d2fdefeae49500/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/89028c436aeff42c35d2fdefeae49500/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/40d0efa32d4977b27cace6c75d7ef135/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/40d0efa32d4977b27cace6c75d7ef135/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/a721c3d183f3d9c342512cbf9992c09b/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/a721c3d183f3d9c342512cbf9992c09b/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/83a3a8e1b3baeda87753d901a609d420/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/83a3a8e1b3baeda87753d901a609d420/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/045f35ee30a492e5eb979e889993ddb8/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/045f35ee30a492e5eb979e889993ddb8/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/daf2f1d248d485af1b6b945a8ced8969/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/daf2f1d248d485af1b6b945a8ced8969/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/07a3e22d581201df360849d016c674fd/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/07a3e22d581201df360849d016c674fd/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1dbd6f7eb915cbf32673467e48774f09/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1dbd6f7eb915cbf32673467e48774f09/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b6a48bbb3e99cb2c9a70c83068009a3a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b6a48bbb3e99cb2c9a70c83068009a3a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c248b69abfd455cbaf564dff69c2d59/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c248b69abfd455cbaf564dff69c2d59/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b1f64fe9dfb7da8331d8ea308dedff99/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b1f64fe9dfb7da8331d8ea308dedff99/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9e7174efc332970e1002fda74b119128/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/9e7174efc332970e1002fda74b119128/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/02b369b6668515dfa2ac71748b1ab2a6/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/02b369b6668515dfa2ac71748b1ab2a6/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/0eb2c3e2de0e42cd63808ad14a582ad7/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/0eb2c3e2de0e42cd63808ad14a582ad7/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b66a684c635fb04c5f4e1d8e4c426cfe/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/eaa2596ef0e0d4452c2848e2b66ca6fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/eaa2596ef0e0d4452c2848e2b66ca6fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/c45a327758e82bf6bb421776c4e248cd/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/c45a327758e82bf6bb421776c4e248cd/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1570a6f908a6ffa3022d86e4427c8761/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/1570a6f908a6ffa3022d86e4427c8761/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/94c446089a82c8379fbc1d74b72260d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/94c446089a82c8379fbc1d74b72260d1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/537042209ac116e7d73b91f376be5e28/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/537042209ac116e7d73b91f376be5e28/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b912fe1cb0f91094d7ffcbe4f0ccb4c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/b912fe1cb0f91094d7ffcbe4f0ccb4c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fb00a64f3890e5b1adf9ff0ca0e903b9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/fb00a64f3890e5b1adf9ff0ca0e903b9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/5339952e5d6881da5ba8c69030d9f8f4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/5339952e5d6881da5ba8c69030d9f8f4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/21ff0995777511fc8469a14544f38360/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/21ff0995777511fc8469a14544f38360/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/f555a2aad10d70574ee391dd4cc74924/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/f555a2aad10d70574ee391dd4cc74924/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/acbd37dcbec17de435d714620cc5769d/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/acbd37dcbec17de435d714620cc5769d/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c00b687649f2beef937e2fa441d57f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/2c00b687649f2beef937e2fa441d57f6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/db0edf62519506cbf42e33814eadd2e0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/db0edf62519506cbf42e33814eadd2e0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/133ae06732e27189c08f0d9fe577375a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/133ae06732e27189c08f0d9fe577375a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		ADDED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suraj/AndroidStudioProjects/SmartParking/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/suraj/.gradle/caches/transforms-2/files-2.1/aa9684abbfe0e5f642f507f64ae8e734/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
